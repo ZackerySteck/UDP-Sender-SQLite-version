@@ -1,7 +1,11 @@
 android-udpsender
 =================
+THIS IS A VARIANT OF HASTARINS UDPSENDER. MODIFICATIONS WERE FOR PERSONAL USE ONLY. THE ORIGINAL CODE AND ALL CREDIT BELONGS TO HASTARIN, LOCATED [HERE](https://github.com/hastarin/android-udpsender).
 
-[UDP Sender](https://play.google.com/store/apps/details?id=com.kke.android.opener) is a simple application to allow sending UDP packets.
+
+This version was modified to add SQLite integration as an alternative to using Implicit Intent or Tasker automation. I understand this may not be the best method, but again, this was for personal use only. This project will not be supported by me. Any collaboration requests will be accepted as long as valid reasoning is given.
+
+[UDP Sender](https://play.google.com/store/apps/details?id=com.kke.android.opener) is a simple application to allow sending UDP packets. 
 
 ![Landscape Screenshot](https://raw.github.com/hastarin/android-udpsender/screenshots/screenshots/S4Landscape.png)
 
