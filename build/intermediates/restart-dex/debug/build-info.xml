@@ -6,7 +6,7 @@
     density="560dpi"
     format="10"
     plugin-version="2.3.0"
-    timestamp="1489628459003"
+    timestamp="1489694793445"
     token="-333698713225789998"
     verifier="COLD_SWAP_REQUESTED" >
 
@@ -18,10 +18,10 @@
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="4" />
+        duration="3" />
     <task
         name="verifier"
-        duration="1" />
+        duration="0" />
 
     <artifact
         location="/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/split-apk/debug/slices/slice_4.apk"
@@ -78,7 +78,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1489628459003"
+        timestamp="1489694793445"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/split-apk/debug/slices/slice_4.apk"

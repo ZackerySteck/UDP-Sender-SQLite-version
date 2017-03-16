@@ -65,8 +65,14 @@ public class Main2Activity extends Activity {
             editText.setText(settings.getString("port", ""), TextView.BufferType.EDITABLE);
         }
         editText = (EditText) findViewById(R.id.editTextData);
-        editText.setText(settings.getString("dataText", ""), TextView.BufferType.EDITABLE);
-
+        if (checked) {
+            editText.setInputType(InputType.TYPE_CLASS_TEXT);
+        }
+        if(dataText != null){
+            editText.setText(dataText, TextView.BufferType.EDITABLE);
+        }else{
+            editText.setText(settings.getString("dataText", ""), TextView.BufferType.EDITABLE);
+        }
         /** Set up global variable to pass to MainActivity
 
         Intent intent = new Intent(Main2Activity.this, MainActivity.class);
@@ -134,12 +140,12 @@ public class Main2Activity extends Activity {
             String oldhost = prefs.getString(column1);
             MainActivity.UserPreferences.execSQL("UPDATE " + MainActivity.TableName + " SET host = '"
                     + host + "', port = '" + port
-                    + "' WHERE host = '" + oldhost +"';");
+                    + "', dataText = '" + dataText + "' WHERE host = '" + oldhost +"';");
         }else{
             MainActivity.UserPreferences.execSQL("INSERT INTO "
                     + MainActivity.TableName
                     + " (host, port, dataText)"
-                    + " VALUES ('" + host + "', '" + port + "',NULL);");
+                    + " VALUES ('" + host + "', '" + port + "','" + dataText + "');");
         }
         Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);

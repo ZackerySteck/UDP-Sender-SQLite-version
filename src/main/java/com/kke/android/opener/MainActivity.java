@@ -85,7 +85,7 @@ public class MainActivity extends Activity implements View.OnClickListener{
 
        prefs.moveToFirst(); //Move back to beginning of table
        if(prefs != null){ //Ensure the table isnt empty
-            host = prefs.getString(column1); //Get Value at Row/Col
+           host = prefs.getString(column1); //Get Value at Row/Col
            port = prefs.getString(column2);
            dataText = prefs.getString(column3);
        }
