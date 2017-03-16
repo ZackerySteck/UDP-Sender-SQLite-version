@@ -1,0 +1,53 @@
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.0'
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+//apply plugin: 'android'
+apply plugin: 'com.android.application'
+android {
+    compileSdkVersion 25 //Zack changed, was 23
+    buildToolsVersion '25.0.2'
+
+    defaultConfig {
+        minSdkVersion 11
+        targetSdkVersion 23
+    }
+
+    // signingConfigs {
+    //    release {
+    //      storeFile file(release.keystore)
+    //     storePassword RELEASE_STORE_PASSWORD
+    //     keyAlias RELEASE_KEY_ALIAS
+    //    keyPassword RELEASE_KEY_PASSWORD
+    // }
+    //  }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+            debuggable false
+            //  signingConfig signingConfigs.release
+        }
+        debug {
+            debuggable true
+            minifyEnabled false
+        }
+    }
+}
+
+dependencies {
+    //Zack commented out
+    compile 'com.android.support.constraint:constraint-layout:+'
+}
+//}

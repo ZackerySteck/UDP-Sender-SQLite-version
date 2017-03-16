@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b247a780212b5d5966cdfbdc27269d59de6962c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/steckzt/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d95a3651581855a86bdeb59920312140ca248d22/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8612e773262fd38a17cb3c44874c388bb0a141a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b00df7c3108a704fc0ae976108222bf4300fc02">
+        <dex dex="/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_27b7d3634aab1e1c45f27a0669c881f4a871ed85/classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Wed Mar 15 21:37:53 EDT 2017
+base.0=/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_27b7d3634aab1e1c45f27a0669c881f4a871ed85
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b247a780212b5d5966cdfbdc27269d59de6962c1/classes.dex
+base.1=/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b247a780212b5d5966cdfbdc27269d59de6962c1
+file.0=/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_27b7d3634aab1e1c45f27a0669c881f4a871ed85/classes.dex

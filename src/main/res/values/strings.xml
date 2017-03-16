@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Opener</string>
+    <string name="action_settings">Settings</string>
+    <string name="label_destination_ip">Lock IP</string>
+    <string name="label_port">Port</string>
+    <string name="label_text">Text</string>
+    <string name="hint_ip">192.168.1.100</string>
+    <string name="hint_text">Text to send -or-</string>
+    <string name="hint_port">50000</string>
+    <string name="button_send">Open</string>
+    <string name="title_activity_send_to_uri">SendToUri</string>
+    <string name="button_set">Set Params</string>
+    <string name="done">Done</string>
+
+</resources>

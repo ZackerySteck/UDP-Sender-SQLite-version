@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/res/merged/debug/drawable-xhdpi/ic_local_plugin.png",
+        "source": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/drawable-xhdpi/ic_local_plugin.png"
+    },
+    {
+        "merged": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_local_plugin.png",
+        "source": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\drawable-xhdpi\\ic_local_plugin.png"
+    }
+]

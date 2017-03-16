@@ -1,0 +1,7 @@
+#Wed Mar 15 19:32:06 EDT 2017
+base.0=/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8612e773262fd38a17cb3c44874c388bb0a141a
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d95a3651581855a86bdeb59920312140ca248d22/classes.dex
+base.1=/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_d95a3651581855a86bdeb59920312140ca248d22
+file.0=/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8612e773262fd38a17cb3c44874c388bb0a141a/classes.dex

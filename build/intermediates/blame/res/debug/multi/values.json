@@ -1,0 +1,2372 @@
+[
+    {
+        "outputFile": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 69,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 69,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 6,
+                        "endColumn": 11,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 67,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 67,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endLine": 10,
+                        "endColumn": 11,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endLine": 13,
+                        "endColumn": 11,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 66,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 66,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endLine": 17,
+                        "endColumn": 11,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endLine": 20,
+                    "endColumn": 11,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endLine": 20,
+                        "endColumn": 11,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 66,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 948,
+                        "endColumn": 66,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 64,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 64,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 64,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 64,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endLine": 27,
+                    "endColumn": 11,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 65,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 65,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 65,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 65,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 66,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1417,
+                        "endColumn": 66,
+                        "endOffset": 1479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endLine": 35,
+                    "endColumn": 11,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1484,
+                        "endLine": 35,
+                        "endColumn": 11,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 68,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 68,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 65,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 65,
+                        "endOffset": 1824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1829,
+                        "endLine": 40,
+                        "endColumn": 11,
+                        "endOffset": 1949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1954,
+                        "endLine": 43,
+                        "endColumn": 11,
+                        "endOffset": 2075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 66,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2080,
+                        "endColumn": 66,
+                        "endOffset": 2142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endLine": 47,
+                    "endColumn": 11,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2147,
+                        "endLine": 47,
+                        "endColumn": 11,
+                        "endOffset": 2268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2273,
+                        "endLine": 50,
+                        "endColumn": 11,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2400,
+                        "endLine": 53,
+                        "endColumn": 11,
+                        "endOffset": 2520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 56,
+                    "endColumn": 11,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2525,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 2647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 64,
+                    "endOffset": 2712
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2652,
+                        "endColumn": 64,
+                        "endOffset": 2712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2717,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2717,
+                        "endLine": 60,
+                        "endColumn": 11,
+                        "endOffset": 2838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2843,
+                    "endLine": 63,
+                    "endColumn": 11,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2843,
+                        "endLine": 63,
+                        "endColumn": 11,
+                        "endOffset": 2961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endColumn": 64,
+                    "endOffset": 3026
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2966,
+                        "endColumn": 64,
+                        "endOffset": 3026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3031,
+                    "endLine": 69,
+                    "endColumn": 11,
+                    "endOffset": 3234
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3031,
+                        "endLine": 69,
+                        "endColumn": 11,
+                        "endOffset": 3234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3239,
+                    "endColumn": 66,
+                    "endOffset": 3301
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3239,
+                        "endColumn": 66,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3306,
+                    "endLine": 74,
+                    "endColumn": 11,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endLine": 74,
+                        "endColumn": 11,
+                        "endOffset": 3440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 64,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3445,
+                        "endColumn": 64,
+                        "endOffset": 3505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 64,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3510,
+                        "endColumn": 64,
+                        "endOffset": 3570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 61,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3575,
+                        "endColumn": 61,
+                        "endOffset": 3632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 61,
+                    "endOffset": 3694
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3637,
+                        "endColumn": 61,
+                        "endOffset": 3694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3699,
+                    "endColumn": 61,
+                    "endOffset": 3756
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3699,
+                        "endColumn": 61,
+                        "endOffset": 3756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3761,
+                    "endColumn": 58,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3761,
+                        "endColumn": 58,
+                        "endOffset": 3815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 59,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3820,
+                        "endColumn": 59,
+                        "endOffset": 3875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 60,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3880,
+                        "endColumn": 60,
+                        "endOffset": 3936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 60,
+                    "endOffset": 3997
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3941,
+                        "endColumn": 60,
+                        "endOffset": 3997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4002,
+                    "endColumn": 58,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4002,
+                        "endColumn": 58,
+                        "endOffset": 4056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 90,
+                    "endColumn": 11,
+                    "endOffset": 4265
+                },
+                "from": {
+                    "file": "/home/steckzt/.android/build-cache/0508929ee61de7bd89b1c22bfd90db26186aefe1/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 4061,
+                        "endLine": 90,
+                        "endColumn": 11,
+                        "endOffset": 4265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9203,
+                    "endColumn": 57,
+                    "endOffset": 9256
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9261,
+                    "endColumn": 55,
+                    "endOffset": 9312
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9317,
+                    "endColumn": 52,
+                    "endOffset": 9365
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9370,
+                    "endColumn": 43,
+                    "endOffset": 9409
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9414,
+                    "endColumn": 44,
+                    "endOffset": 9454
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 44,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9459,
+                    "endColumn": 49,
+                    "endOffset": 9504
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 49,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9509,
+                    "endColumn": 37,
+                    "endOffset": 9542
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 37,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 9547,
+                    "endColumn": 49,
+                    "endOffset": 9592
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 49,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9597,
+                    "endColumn": 43,
+                    "endOffset": 9636
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 43,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9641,
+                    "endColumn": 55,
+                    "endOffset": 9692
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 55,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9697,
+                    "endColumn": 56,
+                    "endOffset": 9749
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 56,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9754,
+                    "endColumn": 43,
+                    "endOffset": 9793
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 43,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9798,
+                    "endColumn": 43,
+                    "endOffset": 9837
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 43,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9842,
+                    "endColumn": 64,
+                    "endOffset": 9902
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 64,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 9907,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 10193
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10198,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 10353
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 51,
+                    "endOffset": 102
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 51,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 107,
+                    "endColumn": 69,
+                    "endOffset": 172
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 69,
+                        "endOffset": 172
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 177,
+                    "endLine": 6,
+                    "endColumn": 11,
+                    "endOffset": 305
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 6,
+                        "endColumn": 11,
+                        "endOffset": 305
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 310,
+                    "endColumn": 67,
+                    "endOffset": 373
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 310,
+                        "endColumn": 67,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 378,
+                    "endLine": 10,
+                    "endColumn": 11,
+                    "endOffset": 502
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endLine": 10,
+                        "endColumn": 11,
+                        "endOffset": 502
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 507,
+                    "endLine": 13,
+                    "endColumn": 11,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 507,
+                        "endLine": 13,
+                        "endColumn": 11,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 66,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 66,
+                        "endOffset": 695
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endLine": 17,
+                    "endColumn": 11,
+                    "endOffset": 818
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 700,
+                        "endLine": 17,
+                        "endColumn": 11,
+                        "endOffset": 818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 823,
+                    "endLine": 20,
+                    "endColumn": 11,
+                    "endOffset": 943
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 823,
+                        "endLine": 20,
+                        "endColumn": 11,
+                        "endOffset": 943
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 948,
+                    "endColumn": 66,
+                    "endOffset": 1010
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 948,
+                        "endColumn": 66,
+                        "endOffset": 1010
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1015,
+                    "endColumn": 64,
+                    "endOffset": 1075
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1015,
+                        "endColumn": 64,
+                        "endOffset": 1075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1080,
+                    "endColumn": 64,
+                    "endOffset": 1140
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 64,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1145,
+                    "endLine": 27,
+                    "endColumn": 11,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1145,
+                        "endLine": 27,
+                        "endColumn": 11,
+                        "endOffset": 1280
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 65,
+                    "endOffset": 1346
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1285,
+                        "endColumn": 65,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1351,
+                    "endColumn": 65,
+                    "endOffset": 1412
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 65,
+                        "endOffset": 1412
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1417,
+                    "endColumn": 66,
+                    "endOffset": 1479
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1417,
+                        "endColumn": 66,
+                        "endOffset": 1479
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1484,
+                    "endLine": 35,
+                    "endColumn": 11,
+                    "endOffset": 1689
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1484,
+                        "endLine": 35,
+                        "endColumn": 11,
+                        "endOffset": 1689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1694,
+                    "endColumn": 68,
+                    "endOffset": 1758
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1694,
+                        "endColumn": 68,
+                        "endOffset": 1758
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1763,
+                    "endColumn": 65,
+                    "endOffset": 1824
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1763,
+                        "endColumn": 65,
+                        "endOffset": 1824
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1829,
+                    "endLine": 40,
+                    "endColumn": 11,
+                    "endOffset": 1949
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1829,
+                        "endLine": 40,
+                        "endColumn": 11,
+                        "endOffset": 1949
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1954,
+                    "endLine": 43,
+                    "endColumn": 11,
+                    "endOffset": 2075
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 1954,
+                        "endLine": 43,
+                        "endColumn": 11,
+                        "endOffset": 2075
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2080,
+                    "endColumn": 66,
+                    "endOffset": 2142
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2080,
+                        "endColumn": 66,
+                        "endOffset": 2142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2147,
+                    "endLine": 47,
+                    "endColumn": 11,
+                    "endOffset": 2268
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2147,
+                        "endLine": 47,
+                        "endColumn": 11,
+                        "endOffset": 2268
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2273,
+                    "endLine": 50,
+                    "endColumn": 11,
+                    "endOffset": 2395
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2273,
+                        "endLine": 50,
+                        "endColumn": 11,
+                        "endOffset": 2395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 2400,
+                    "endLine": 53,
+                    "endColumn": 11,
+                    "endOffset": 2520
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2400,
+                        "endLine": 53,
+                        "endColumn": 11,
+                        "endOffset": 2520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 2525,
+                    "endLine": 56,
+                    "endColumn": 11,
+                    "endOffset": 2647
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2525,
+                        "endLine": 56,
+                        "endColumn": 11,
+                        "endOffset": 2647
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 2652,
+                    "endColumn": 64,
+                    "endOffset": 2712
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 2652,
+                        "endColumn": 64,
+                        "endOffset": 2712
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 2717,
+                    "endLine": 60,
+                    "endColumn": 11,
+                    "endOffset": 2838
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 2717,
+                        "endLine": 60,
+                        "endColumn": 11,
+                        "endOffset": 2838
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 2843,
+                    "endLine": 63,
+                    "endColumn": 11,
+                    "endOffset": 2961
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2843,
+                        "endLine": 63,
+                        "endColumn": 11,
+                        "endOffset": 2961
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 2966,
+                    "endColumn": 64,
+                    "endOffset": 3026
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 2966,
+                        "endColumn": 64,
+                        "endOffset": 3026
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 3031,
+                    "endLine": 69,
+                    "endColumn": 11,
+                    "endOffset": 3234
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3031,
+                        "endLine": 69,
+                        "endColumn": 11,
+                        "endOffset": 3234
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 3239,
+                    "endColumn": 66,
+                    "endOffset": 3301
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3239,
+                        "endColumn": 66,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 3306,
+                    "endLine": 74,
+                    "endColumn": 11,
+                    "endOffset": 3440
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endLine": 74,
+                        "endColumn": 11,
+                        "endOffset": 3440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 3445,
+                    "endColumn": 64,
+                    "endOffset": 3505
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 3445,
+                        "endColumn": 64,
+                        "endOffset": 3505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 3510,
+                    "endColumn": 64,
+                    "endOffset": 3570
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 3510,
+                        "endColumn": 64,
+                        "endOffset": 3570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 3575,
+                    "endColumn": 61,
+                    "endOffset": 3632
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3575,
+                        "endColumn": 61,
+                        "endOffset": 3632
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 3637,
+                    "endColumn": 61,
+                    "endOffset": 3694
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 3637,
+                        "endColumn": 61,
+                        "endOffset": 3694
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 3699,
+                    "endColumn": 61,
+                    "endOffset": 3756
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3699,
+                        "endColumn": 61,
+                        "endOffset": 3756
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 3761,
+                    "endColumn": 58,
+                    "endOffset": 3815
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 3761,
+                        "endColumn": 58,
+                        "endOffset": 3815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 3820,
+                    "endColumn": 59,
+                    "endOffset": 3875
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 3820,
+                        "endColumn": 59,
+                        "endOffset": 3875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 3880,
+                    "endColumn": 60,
+                    "endOffset": 3936
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 3880,
+                        "endColumn": 60,
+                        "endOffset": 3936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 3941,
+                    "endColumn": 60,
+                    "endOffset": 3997
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 3941,
+                        "endColumn": 60,
+                        "endOffset": 3997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 4002,
+                    "endColumn": 58,
+                    "endOffset": 4056
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 4002,
+                        "endColumn": 58,
+                        "endOffset": 4056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 4061,
+                    "endLine": 90,
+                    "endColumn": 11,
+                    "endOffset": 4265
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\.android\\build-cache\\459d814d8221007be8e61cb67541cb8989291285\\output\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 4061,
+                        "endLine": 90,
+                        "endColumn": 11,
+                        "endOffset": 4265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 9203,
+                    "endColumn": 57,
+                    "endOffset": 9256
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 9261,
+                    "endColumn": 55,
+                    "endOffset": 9312
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 9317,
+                    "endColumn": 52,
+                    "endOffset": 9365
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 52,
+                        "endOffset": 148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 9370,
+                    "endColumn": 43,
+                    "endOffset": 9409
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 43,
+                        "endOffset": 95
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 9414,
+                    "endColumn": 44,
+                    "endOffset": 9454
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 448,
+                        "endColumn": 44,
+                        "endOffset": 488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 9459,
+                    "endColumn": 49,
+                    "endOffset": 9504
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 49,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 9509,
+                    "endColumn": 37,
+                    "endOffset": 9542
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 37,
+                        "endOffset": 641
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 9547,
+                    "endColumn": 49,
+                    "endOffset": 9592
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 298,
+                        "endColumn": 49,
+                        "endOffset": 343
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 9597,
+                    "endColumn": 43,
+                    "endOffset": 9636
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 404,
+                        "endColumn": 43,
+                        "endOffset": 443
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 9641,
+                    "endColumn": 55,
+                    "endOffset": 9692
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 348,
+                        "endColumn": 55,
+                        "endOffset": 399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 9697,
+                    "endColumn": 56,
+                    "endOffset": 9749
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 153,
+                        "endColumn": 56,
+                        "endOffset": 205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 9754,
+                    "endColumn": 43,
+                    "endOffset": 9793
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 210,
+                        "endColumn": 43,
+                        "endOffset": 249
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 9798,
+                    "endColumn": 43,
+                    "endOffset": 9837
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 43,
+                        "endOffset": 293
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 9842,
+                    "endColumn": 64,
+                    "endOffset": 9902
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 493,
+                        "endColumn": 64,
+                        "endOffset": 553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 9907,
+                    "endLine": 114,
+                    "endColumn": 12,
+                    "endOffset": 10193
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 10198,
+                    "endLine": 117,
+                    "endColumn": 12,
+                    "endOffset": 10353
+                },
+                "from": {
+                    "file": "/home/steckzt/Programming/android-studio/projects/android-udpsender-master/C:\\Users\\kkrofft\\android-udpsender-master\\src\\main\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]
